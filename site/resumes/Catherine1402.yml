@@ -1,0 +1,45 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output
+#
+
+template: "online-cv"
+skin: "blue"
+
+# Personal Information
+basic_info:
+
+    # Your full name
+    first_name: Catherine
+    last_name: Mohozzo
+    
+    # Define yourself in 4-5 words
+    motto: To life, win. To dreams, wings.
+    
+    # Focus
+    focus: Learn and have new experiences
+    
+   
+    
+    # Your profile picture URL
+    # If you don't have it as a URL you can place the picture inside /static/profile-images/ and the generated link will be http://sep.breatheco.de/static/profile-images/<your file name>
+    avatar: https://randomuser.me/api/portraits/women/24.jpg
+
+    # Contact Information
+    website:  #optional
+    linkedin: https://www.linkedin.com/in/cathy-mohozzo-b88522207 #optional
+    
+    #
+    # ******** IMPORTANT *******
+    # This github username will be used to generate your public profile URL like this: http://sep.breatheco.de/sharu725
+    github: Catherine1402
+
+    # Languages you speak, levels include: Native, Professional
+    languages:
+      - idiom: Spanish
+        level: Native
+
+      - idiom: English
+        level: Basic
+
+
+
